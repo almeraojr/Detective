@@ -51,4 +51,4 @@ Pull requests are welcome.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
