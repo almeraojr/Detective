@@ -16,11 +16,11 @@ As they say:
 
 - [x] dev
 
-- [ ] 
+- [ ] sleep
 
-- [ ] 
+- [ ] test
 
-- [ ] 
+- [ ] repeat
 
 
 ## Database
