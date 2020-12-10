@@ -14,13 +14,13 @@ As they say:
 
 ## Development
 
-- [] 
+- [x] 
 
-- [] 
+- [ ] 
 
-- [] 
+- [ ] 
 
-- [] 
+- [ ] 
 
 
 ## Database
