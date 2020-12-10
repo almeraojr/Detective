@@ -49,6 +49,6 @@ Pull requests are welcome.
 ##### Newton Júnior [`newton-almerao@uergs.edu.br`]
 ##### Débora Matos [`debora-motta@uergs.edu.br`]
 
-##License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
