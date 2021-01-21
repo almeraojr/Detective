@@ -9,7 +9,7 @@ As they say:
 ## Description
 We are developing a Detective game in Java. The game is pretty simple, but we wiil be allowed to show some of the distributed systems characteristics, such as client/server model.
 
-First of all, our game will be a Multicast between clients and server using some of the concepts that we learn in this course, such as Multithreading, sockets and of course the client/server model.
+First of all, our game will be a MultiThread between clients and server using some of the concepts that we learn in this course, such as Multithreading, sockets and of course the client/server model.
 
 Also, we will use threads to allow us to create a better experience for our players, because they bring to us an asynchronous process experience
 
@@ -30,6 +30,7 @@ Also, we will use threads to allow us to create a better experience for our play
 - [x] repeat
 
 ## Build with
+
 	later
 
 ## Requirements
@@ -41,10 +42,12 @@ Also, we will use threads to allow us to create a better experience for our play
 ## Running (Locally)
 
 Fisrt of all, you need to run the server in terminal (cmd or the Vcode embedded)
+
 After, you need to choose te ip, port and the name of your player.
 
 Standard IP: 127.0.0.1
-Port: you choose, but it need to be the same started on the server
+
+Port: you choose, but it needs to be the same started on the server.
 
 ## Contributions
 
