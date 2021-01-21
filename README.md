@@ -4,7 +4,7 @@ This project is a partial requirement for grade in Distributed Systems course at
 We're undergrad students of Computer Engineering at UERGS, rated as the best Computer Engineering in Brazil.
 
 As they say:
-> Every passing minute is another chance to turn it all around.
+> May the force be with you
 
 ## Description
 We are developing a Detective game in Java. The game is pretty simple, but we wiil be allowed to show some of the distributed systems characteristics, such as client/server model.
