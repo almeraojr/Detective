@@ -15,35 +15,42 @@ Also, we will use threads to allow us to create a better experience for our play
 
 ## Starting...
 
-	to-do
+	later
 
 ## Development
 
+- [x] idea
+
 - [x] dev
 
-- [x] sleep
-
 - [x] test
+
+- [x] sleep
 
 - [x] repeat
 
 ## Build with
-
+	later
 
 ## Requirements
 
 - Java SE
-- vs code or another IDE
+- VScode or another IDE
 
 
 ## Running (Locally)
 
+Fisrt of all, you need to run the server in terminal (cmd or the Vcode embedded)
+After, you need to choose te ip, port and the name of your player.
+
+Standard IP: 127.0.0.1
+Port: you choose, but it need to be the same started on the server
 
 ## Contributions
 
 Pull requests are welcome.
 
-## Author
+## @Authors
 
 ##### Gabriel Bettanin [`gabriel-bettanin@uergs.edu.br`]
 ##### Newton Júnior [`newton-almerao@uergs.edu.br`]
